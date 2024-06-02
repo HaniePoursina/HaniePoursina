@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haniepoursina" alt="haniepoursina" /></a> </p>
 
-- 🔭 I’m currently working on **Ganje SafeBox**
 
 - 👯 I’m looking to collaborate on **Mixing AI and IoT stuff**
 
