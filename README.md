@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hanie Poursina</h1>
-<h3 align="center">A passionate Creator</h3>
+<h1 align="center">Hi 👋, I'm Haniyeh Poursina</h1>
+<h3 align="center">Let us build something! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haniepoursina&label=Profile%20views&color=0e75b6&style=flat" alt="haniepoursina" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haniepoursina" alt="haniepoursina" /></a> </p>
 
 
-- 👯 I’m looking to collaborate on **Mixing AI and IoT stuff**
-
 - 👨‍💻 All of my projects are available at [https://github.com/HaniePoursina](https://github.com/HaniePoursina)
 
-- 💬 Ask me about **IoT, Entrepreneurship**
+- 💬 Ask me about **Product Management, Entrepreneurship**
 
 - 📫 How to reach me **hanieh.poursina@gmail.com**
 
@@ -23,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/haniepoursina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="haniepoursina" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/haniepoursina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haniepoursina/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/haniyeh-poursina/](https://www.linkedin.com/in/haniyeh-poursina/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haniyeh-poursina/" height="30" width="40" /></a>
 <a href="https://instagram.com/hanie.poursina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanie.poursina" height="30" width="40" /></a>
 <a href="https://medium.com/@hanie.poursina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hanie.poursina" height="30" width="40" /></a>
 </p>
